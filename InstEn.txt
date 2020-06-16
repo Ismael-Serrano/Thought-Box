@@ -1,0 +1,21 @@
+Welcome to Thought Box. The purpose of this program is the observation of the different thoughts that
+pop into our minds. When you notice that a certain idea, thought or feeling is important to you or has
+crossed your mind several times, you can drop it in the box. Once inside, you can make thoughts bigger
+as they happen again. You can also remove any thoughts that have become irrelevant to you.
+
+
+   To enter a thought in the box, write an identification tag and what that thought consists of. 
+   Click the 'Enter' button.
+
+
+   To increase or decrease the size of a thought click on it, then click on the '+' or '-' buttons 
+   to the right side of the box. You can also double-click on the thought to increase its size and
+   double right click to reduce it.
+
+
+   To remove a thought click on it and then on the 'Remove' button to the right side of the box.
+
+
+   Thoughts can be modified in the control panel. Select a thought and click on the 'Edit' button. 
+   Now you can rewrite or add information to a thought's tag or content. After making any change,
+   click on 'Accept' to confirm the amendment.
