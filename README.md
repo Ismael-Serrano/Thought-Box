@@ -14,3 +14,5 @@ In addition, Thought box can be run by opening the "Thought Box.py" file with py
 
 Saved information during the use of the application is stored in the directory "saved_files". it is recommended not to to 
 modify any of the text files in there to ensure the correct functioning of the application.
+
+modificacion 1
